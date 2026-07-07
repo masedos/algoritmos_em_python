@@ -1,6 +1,5 @@
 import numpy as np
 
-
 class VetorOrdenado:
 
     def __init__(self, capacidade):
@@ -82,6 +81,7 @@ class VetorOrdenado:
             self.ultima_posicao -= 1
 
 vetor = VetorOrdenado(10)
+
 vetor.insere(8)
 vetor.insere(9)
 vetor.insere(4)
