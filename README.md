@@ -10,6 +10,6 @@ git init
 git config user.name "Fernandes Macedo"
 git config user.email masedos@egmail.com
 git add -A .
-git commit -m "first commit v1"
+git commit -m "first commit v1.0"
 git push -u origin main
 ```
